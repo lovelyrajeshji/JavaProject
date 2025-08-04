@@ -6,6 +6,7 @@ public class SecondLargestNumber {
 
           		System.out.println("res1");
                         System.out.println("res1");
+		System.out.println("res1");
 
 			}
 
